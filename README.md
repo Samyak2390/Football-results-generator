@@ -10,11 +10,4 @@
   <li>Away team score may not be a valid integer number.</li>
 </ul>
 <p> And, skips the lines with errors and prints lines without errors in following format: </p>
-<p>
-      Home team  	 	Score    	Away team     Score
-      =========		  =====		=========		    ======
-      Arsenal 		    2 		Spurs	 		        1
-      Everton 		    1 		Liverpool 		    1
-      Huddersfield	  2 		Chelsea 		      1
-
-</p>
+<img src="score.JPG">
