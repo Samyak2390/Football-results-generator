@@ -1,0 +1,30 @@
+Burnley : Huddersfeild : 1 : 1
+Crystal Palace : Wolves : 0 : 1
+Leicester City : Everton : 1 : 2
+Tottenham : Cardiff City : 1 : 0
+Watford : Bournemouth : 0 : 4
+Man United : Newcastle  : 3 : 2
+               : Liverpool : 0 : 1
+Fulham : Arsenal : 1 : 5
+Southampton : Chelsea : 0 : 3
+Manchester City: : 5: 0
+Chelsea : Man United : 2 : 2
+Bournemouth : Southampton : 0 : 0
+Bournemouth : Man United : 1 :2
+Newcastle : Watford : 1 : 0
+Arsenal Liverpool :2:2
+Huddersfield : Liverpool::1
+Everton : Brighton : 3 :  1
+Cardiff City : Leicester City : 0 : 1
+Arsenal : Liverpool : 1 : 1
+Wolves : Tottenham : 2 : 3
+Chelsea - Manchester City - 1 : 1
+Man City : Southampton : 6 : 1
+Huddersfield : Fulham : 1 : 0
+::2:0
+Liverpool :  Fulham : 2 : 0
+Arsenal : Wolves : 1 : 1
+West Ham United : Aresnal : A: 1
+Chelsea : Everton : 0 : 0
+Cardiff City : Fulham : 2 : x
+Man City : Man United : 3 : 1
